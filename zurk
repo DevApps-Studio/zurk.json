@@ -77,6 +77,18 @@
       "url": "https://raw.githubusercontent.com/DevApps-Studio/zurk.json/main/walls/13.jpg",
       "name": "wall 13",
       "collections": "wall"
+    },
+    {
+      "author": "Android Tools 4U",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/zurk.json/main/walls/14.jpg",
+      "name": "wall 14",
+      "collections": "wall"
+    },
+    {
+      "author": "Android Tools 4U",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/zurk.json/main/walls/15.jpg",
+      "name": "wall 15",
+      "collections": "wall"
     }
     
 ]
